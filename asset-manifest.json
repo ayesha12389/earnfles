@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ayesha12389/earnfles/earnflex-taskk1/src/app.js/static/css/main.3ce7bc41.css",
-    "main.js": "/ayesha12389/earnfles/earnflex-taskk1/src/app.js/static/js/main.50ae59fd.js",
-    "index.html": "/ayesha12389/earnfles/earnflex-taskk1/src/app.js/index.html",
-    "main.3ce7bc41.css.map": "/ayesha12389/earnfles/earnflex-taskk1/src/app.js/static/css/main.3ce7bc41.css.map",
-    "main.50ae59fd.js.map": "/ayesha12389/earnfles/earnflex-taskk1/src/app.js/static/js/main.50ae59fd.js.map"
+    "main.css": "/ayesha12389/earnfles/earnflex-taskk1/src/static/css/main.3ce7bc41.css",
+    "main.js": "/ayesha12389/earnfles/earnflex-taskk1/src/static/js/main.50ae59fd.js",
+    "index.html": "/ayesha12389/earnfles/earnflex-taskk1/src/index.html",
+    "main.3ce7bc41.css.map": "/ayesha12389/earnfles/earnflex-taskk1/src/static/css/main.3ce7bc41.css.map",
+    "main.50ae59fd.js.map": "/ayesha12389/earnfles/earnflex-taskk1/src/static/js/main.50ae59fd.js.map"
   },
   "entrypoints": [
     "static/css/main.3ce7bc41.css",
