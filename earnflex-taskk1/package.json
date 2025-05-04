@@ -2,7 +2,7 @@
   "name": "earnflex-taskk1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/ayesha12389/earnfles/earnflex-taskk1/src/app.js",
+  "homepage": "https://github.com/ayesha12389/earnfles/earnflex-taskk1/src",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
